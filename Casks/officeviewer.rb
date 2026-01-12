@@ -1,9 +1,6 @@
-# Homebrew Cask formula for OfficeViewer
-# Users can then install via: brew tap younggglcy/tap && brew install --cask officeviewer
-
 cask "officeviewer" do
-  version "0.1.1"
-  sha256 "fa17fb87b6a56d8f1591ee346b54a5d9fa87a9962cbccea354c1acb1c844a65a"
+  version "0.2.0"
+  sha256 "7d446ace6d7b6e99a2ba1993739acf118e66f6be6a8159f398eeb004c52b9b6f"
 
   url "https://github.com/younggglcy/OfficeViewer/releases/download/v#{version}/OfficeViewer-#{version}.dmg"
   name "OfficeViewer"
