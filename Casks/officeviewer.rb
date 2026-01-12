@@ -1,6 +1,6 @@
 cask "officeviewer" do
-  version "0.2.1"
-  sha256 "ad02335c96060ba06087c82bf6b850d2b6345e34c3070518a09a61066936038a"
+  version "0.2.2"
+  sha256 "88ff9516f3bd0cc4224d79e9b8d5d2e3eaef61f0f6ca0154bf5f9adfa57ff7ff"
 
   url "https://github.com/younggglcy/OfficeViewer/releases/download/v#{version}/OfficeViewer-#{version}.dmg"
   name "OfficeViewer"
