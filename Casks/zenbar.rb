@@ -1,6 +1,6 @@
 cask "zenbar" do
-  version "0.1.1"
-  sha256 "f94fae6cf3b39b8de5ed1cab88f7a3f0101178ba175b9e5bc65a281d2087b92b"
+  version "0.1.2"
+  sha256 "9d0d1e0b2a1fc65d964ad429e2bcff8c37d8664f221e8d0631a33f18b1310686"
 
   url "https://github.com/younggglcy/ZenBar/releases/download/v#{version}/ZenBar-#{version}.dmg"
   name "ZenBar"
